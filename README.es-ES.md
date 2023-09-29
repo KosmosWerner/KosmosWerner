@@ -1,5 +1,9 @@
 # ¡Hola! Soy Kosmos Werner 👋
 
+[![English](https://img.shields.io/badge/lang-English-red.svg)](https://github.com/KosmosWerner/KosmosWerner/blob/main/README.md)
+[![Português (Brasil)](https://img.shields.io/badge/lang-Portugu%C3%AAs%20(Brasil)-green.svg)](https://github.com/KosmosWerner/KosmosWerner/blob/main/README.pt-BR.md)
+[![Español](https://img.shields.io/badge/lang-Espa%C3%B1ol-yellow.svg)](https://github.com/KosmosWerner/KosmosWerner/blob/main/README.es-ES.md)
+
 ## Sobre Mí
 
 Soy Kosmos Werner y estoy emocionado por fusionar mi formación en arquitectura con mis habilidades como programador autodidacta. Cuento con un título de bachiller en arquitectura y urbanismo, sin embargo, he pasado los últimos 4 años adentrándome en el mundo de la programación. Comencé con C++, luego profundicé en C#, y finalmente llegué a Python, con un enfoque en Machine Learning.
@@ -36,7 +40,7 @@ Mantente al tanto de estos próximos proyectos, ya que estoy comprometido a expa
 
 Estoy abierto a discusiones, colaboraciones o simplemente compartir ideas sobre arquitectura y programación. No dudes en contactarme.
 
-**Ubicación**: Perú
+**Ubicación**: Perú  
 **Idiomas**: Español, Inglés, Portugués
 
 ¡Gracias por visitar mi perfil de GitHub! 🙌
