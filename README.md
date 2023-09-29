@@ -36,4 +36,7 @@ Let's stay connected! You can find me on the following platforms:
 
 I'm open to discussions, collaborations, or simply sharing ideas about architecture and programming. Feel free to reach out.
 
+**Location**: Peru 🇵🇪
+**Languages**: Spanish, English, Portuguese
+
 Thanks for visiting my GitHub profile! 🙌
