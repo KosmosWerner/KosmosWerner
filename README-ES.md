@@ -36,4 +36,7 @@ Mantente al tanto de estos próximos proyectos, ya que estoy comprometido a expa
 
 Estoy abierto a discusiones, colaboraciones o simplemente compartir ideas sobre arquitectura y programación. No dudes en contactarme.
 
+**Ubicación**: Perú
+**Idiomas**: Español, Inglés, Portugués
+
 ¡Gracias por visitar mi perfil de GitHub! 🙌
