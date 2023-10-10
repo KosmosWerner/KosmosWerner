@@ -8,6 +8,9 @@
 
 Eu sou Kosmos Werner e estou empolgado em unir minha formação em arquitetura com minhas habilidades autodidatas em programação. Tenho um diploma de bacharel em arquitetura e urbanismo. No entanto, nos últimos 4 anos, tenho me aprofundado no mundo da programação. Comecei com C++, mergulhei no C#, e finalmente cheguei ao Python, com foco em Machine Learning. Também aprendi desenvolvimento web e JavaScript para usar o Three.js devido ao seu potencial na visualização arquitetônica.
 
+![Localização: Peru](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Peru-red?style=flat)
+![Idiomas: Espanhol, Inglês, Português](https://img.shields.io/badge/Idiomas-Espanhol%2C%20Ingl%C3%AAs%2C%20Portugu%C3%AAs-blue?style=flat)
+
 ## 🚀 Minhas Habilidades
 
 Aqui estão algumas das minhas habilidades em programação e arquitetura:
@@ -74,3 +77,5 @@ Vamos manter contato! Você pode me encontrar nas seguintes plataformas:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21495929)
 
 Estou aberto a discussões, colaborações ou simplesmente compartilhar ideias sobre arquitetura e programação. Não hesite em entrar em contato comigo.
+
+Obrigado por visitar meu perfil no GitHub! 🙌
